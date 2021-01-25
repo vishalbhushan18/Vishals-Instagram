@@ -1,4 +1,4 @@
-#Vishal's Instagram
+# Vishal's Instagram
 
 Vishal's Instagram is a social networking application where users can create, view, like and comment on posts; follow and unfollow other users and hence interact amongst themselves.
 
